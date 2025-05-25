@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://maieutic-nlp.github.io/sitemap.xml
+Sitemap: https://maieutic-nlp.github.io/Teaching-AI-Games/sitemap.xml
