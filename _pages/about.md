@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+This course will look at Artificial Intelligence and the algorithms and technology behind it through the lens of games. We will discuss how popular games such as Wordle, Crossword Puzzles, and Cards Against Humanity offer really detailed insights into the core workings of AI – from how they are trained, to what happens when they are deployed to users in the wild. While we will get into cutting-edge algorithms and engineering advances, no prior technical knowledge or programming skills are required. At the end of the semester, students will be able to understand and debate engineering decisions and principles underlying all of the fundamental technological aspects of Modern AI systems. Students are expected to come to class prepared to discuss assigned readings and there will be a class project to build an AI Bot to play the popular TV show game Wheel of Fortune.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
