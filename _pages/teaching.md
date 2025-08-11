@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Final Project
+title: final project
 description: Information about the final project for the class.
 nav: true
 nav_order: 6
