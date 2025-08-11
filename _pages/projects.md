@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: schedule
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Here are the planned classes and topics for the semester.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
