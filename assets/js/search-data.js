@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/Teaching-AI-Games/repositories/";
           },
         },{id: "nav-final-project",
-          title: "Final Project",
+          title: "final project",
           description: "Information about the final project for the class.",
           section: "Navigation",
           handler: () => {
