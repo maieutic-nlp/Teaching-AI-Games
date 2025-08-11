@@ -6,7 +6,7 @@ subtitle: Course website for Explaining AI Through Games (a First Year Seminar)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>EN.501.145</p>
