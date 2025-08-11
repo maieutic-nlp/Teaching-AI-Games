@@ -401,48 +401,68 @@ ninja.data = [{
             },},{id: "news-website-launch-for-the-new-course",
           title: 'Website launch for the new course.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-november-6",
+          title: 'November 6',
+          description: "another project with an image 🎉",
+          section: "Projects",handler: () => {
+              window.location.href = "/Teaching-AI-Games/projects/10_project/";
+            },},{id: "projects-november-13",
+          title: 'November 13',
+          description: "another project with an image 🎉",
+          section: "Projects",handler: () => {
+              window.location.href = "/Teaching-AI-Games/projects/11_project/";
+            },},{id: "projects-november-20",
+          title: 'November 20',
+          description: "Final project hackathon day",
+          section: "Projects",handler: () => {
+              window.location.href = "/Teaching-AI-Games/projects/12_project/";
+            },},{id: "projects-december-4",
+          title: 'December 4',
+          description: "Wrapping up the class",
+          section: "Projects",handler: () => {
+              window.location.href = "/Teaching-AI-Games/projects/13_project/";
+            },},{id: "projects-august-28",
+          title: 'August 28',
+          description: "Class welcome and first games",
           section: "Projects",handler: () => {
               window.location.href = "/Teaching-AI-Games/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-september-4",
+          title: 'September 4',
+          description: "Wordle and Vibe Coding",
           section: "Projects",handler: () => {
               window.location.href = "/Teaching-AI-Games/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-september-11",
+          title: 'September 11',
+          description: "Exploration and Exploitation. Chess, Checkers, and Classic Board Games",
           section: "Projects",handler: () => {
               window.location.href = "/Teaching-AI-Games/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-september-18",
+          title: 'September 18',
+          description: "Telephone",
           section: "Projects",handler: () => {
               window.location.href = "/Teaching-AI-Games/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-september-25",
+          title: 'September 25',
+          description: "Cards Against Humanity",
           section: "Projects",handler: () => {
               window.location.href = "/Teaching-AI-Games/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
+            },},{id: "projects-october-2",
+          title: 'October 2',
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/Teaching-AI-Games/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-october-9",
+          title: 'October 9',
+          description: "Guest lecture by",
           section: "Projects",handler: () => {
               window.location.href = "/Teaching-AI-Games/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
+            },},{id: "projects-october-23",
+          title: 'October 23',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/Teaching-AI-Games/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-october-30",
+          title: 'October 30',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/Teaching-AI-Games/projects/9_project/";
