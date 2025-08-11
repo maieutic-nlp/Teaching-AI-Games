@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "This will include links to code that we will use in the course of the class.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Teaching-AI-Games/repositories/";
