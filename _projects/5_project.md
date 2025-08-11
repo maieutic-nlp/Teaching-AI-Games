@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: September 25
+description: Cards Against Humanity
 img: assets/img/1.jpg
-importance: 3
-category: fun
+importance: 1
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

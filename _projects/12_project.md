@@ -1,7 +1,7 @@
 ---
 layout: page
-title: October 30
-description: another project with an image 🎉
+title: November 20
+description: Final project hackathon day
 img: assets/img/6.jpg
 importance: 1
 category: work

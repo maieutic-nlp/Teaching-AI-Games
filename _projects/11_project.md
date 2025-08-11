@@ -1,6 +1,6 @@
 ---
 layout: page
-title: October 30
+title: November 13
 description: another project with an image 🎉
 img: assets/img/6.jpg
 importance: 1
