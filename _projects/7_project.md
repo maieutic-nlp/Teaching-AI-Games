@@ -3,7 +3,7 @@ layout: page
 title: October 9
 description: Guest lecture by
 img: assets/img/4.jpg
-importance: 1
+importance: 7
 category: work
 related_publications: true
 ---

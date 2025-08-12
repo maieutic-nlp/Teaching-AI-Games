@@ -3,7 +3,7 @@ layout: page
 title: November 20
 description: Final project hackathon day
 img: assets/img/6.jpg
-importance: 1
+importance: 12
 category: work
 ---
 

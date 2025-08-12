@@ -3,7 +3,7 @@ layout: page
 title: September 4
 description: Wordle and Vibe Coding
 img: assets/img/3.jpg
-importance: 1
+importance: 2
 category: work
 giscus_comments: true
 ---

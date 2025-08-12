@@ -4,7 +4,7 @@ title: September 11
 description: Exploration and Exploitation. Chess, Checkers, and Classic Board Games
 img: assets/img/7.jpg
 redirect: https://unsplash.com
-importance: 1
+importance: 3
 category: work
 ---
 

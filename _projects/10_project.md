@@ -3,7 +3,7 @@ layout: page
 title: November 6
 description: another project with an image 🎉
 img: assets/img/6.jpg
-importance: 1
+importance: 10
 category: work
 ---
 

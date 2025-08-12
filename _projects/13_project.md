@@ -3,7 +3,7 @@ layout: page
 title: December 4
 description: Wrapping up the class
 img: assets/img/6.jpg
-importance: 1
+importance: 13
 category: work
 ---
 
