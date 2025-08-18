@@ -403,12 +403,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-november-6",
           title: 'November 6',
-          description: "another project with an image 🎉",
+          description: "Jeapordy",
           section: "Projects",handler: () => {
               window.location.href = "/Teaching-AI-Games/projects/10_project/";
             },},{id: "projects-november-13",
           title: 'November 13',
-          description: "another project with an image 🎉",
+          description: "Poker and Sports",
           section: "Projects",handler: () => {
               window.location.href = "/Teaching-AI-Games/projects/11_project/";
             },},{id: "projects-november-20",
@@ -438,17 +438,17 @@ ninja.data = [{
               window.location.href = "/Teaching-AI-Games/projects/3_project/";
             },},{id: "projects-september-18",
           title: 'September 18',
-          description: "Telephone",
+          description: "Go",
           section: "Projects",handler: () => {
               window.location.href = "/Teaching-AI-Games/projects/4_project/";
             },},{id: "projects-september-25",
           title: 'September 25',
-          description: "Cards Against Humanity",
+          description: "Large Language Models",
           section: "Projects",handler: () => {
               window.location.href = "/Teaching-AI-Games/projects/5_project/";
             },},{id: "projects-october-2",
           title: 'October 2',
-          description: "a project with no image",
+          description: "Cards Against Humanity",
           section: "Projects",handler: () => {
               window.location.href = "/Teaching-AI-Games/projects/6_project/";
             },},{id: "projects-october-9",
@@ -458,12 +458,12 @@ ninja.data = [{
               window.location.href = "/Teaching-AI-Games/projects/7_project/";
             },},{id: "projects-october-23",
           title: 'October 23',
-          description: "an other project with a background image and giscus comments",
+          description: "Telephone, Werewolf, and Mafia",
           section: "Projects",handler: () => {
               window.location.href = "/Teaching-AI-Games/projects/8_project/";
             },},{id: "projects-october-30",
           title: 'October 30',
-          description: "another project with an image 🎉",
+          description: "Pictionary",
           section: "Projects",handler: () => {
               window.location.href = "/Teaching-AI-Games/projects/9_project/";
             },},{
