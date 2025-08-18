@@ -1,7 +1,7 @@
 ---
 layout: page
 title: October 23
-description: an other project with a background image and giscus comments
+description: Telephone, Werewolf, and Mafia
 img: assets/img/9.jpg
 importance: 8
 category: work

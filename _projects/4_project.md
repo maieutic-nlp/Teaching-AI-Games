@@ -1,7 +1,7 @@
 ---
 layout: page
 title: September 18
-description: Telephone
+description: Go
 img:
 importance: 4
 category: work

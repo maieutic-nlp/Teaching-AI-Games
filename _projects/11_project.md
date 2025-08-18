@@ -1,7 +1,7 @@
 ---
 layout: page
 title: November 13
-description: another project with an image 🎉
+description: Poker and Sports
 img: assets/img/6.jpg
 importance: 11
 category: work

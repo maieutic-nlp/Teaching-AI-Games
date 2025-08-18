@@ -1,7 +1,7 @@
 ---
 layout: page
 title: October 30
-description: another project with an image 🎉
+description: Pictionary
 img: assets/img/6.jpg
 importance: 9
 category: work

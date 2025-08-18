@@ -1,11 +1,13 @@
 ---
 layout: page
 title: September 25
-description: Cards Against Humanity
+description: Large Language Models
 img: assets/img/1.jpg
 importance: 5
 category: work
 ---
+
+Word at a time story
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

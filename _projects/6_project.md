@@ -1,7 +1,7 @@
 ---
 layout: page
 title: October 2
-description: a project with no image
+description: Cards Against Humanity
 img:
 importance: 6
 category: work

@@ -3,10 +3,14 @@ layout: page
 title: September 11
 description: Exploration and Exploitation. Chess, Checkers, and Classic Board Games
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
+
+checkers is solved
+
+Deep Blue
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

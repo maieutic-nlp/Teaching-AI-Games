@@ -1,7 +1,7 @@
 ---
 layout: page
 title: November 6
-description: another project with an image 🎉
+description: Jeapordy
 img: assets/img/6.jpg
 importance: 10
 category: work
