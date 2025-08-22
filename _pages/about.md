@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>EN.501.145</p>
     <p>Thursdays 3:00 - 5:30 pm</p>
-    <p>Classroom TBA</p>
+    <p>Malone G33/G35</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
