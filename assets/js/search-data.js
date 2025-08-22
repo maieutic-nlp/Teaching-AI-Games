@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Teaching-AI-Games/repositories/";
           },
+        },{id: "nav-syllabus",
+          title: "syllabus",
+          description: "Here is the syllabus (checkpointed a week before class starts). Expectations laid out here will not change, but readings and schedule might. Refer to other parts of this website for most up-to-date info.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Teaching-AI-Games/cv/";
+          },
         },{id: "nav-final-project",
           title: "final project",
           description: "Information about the final project for the class.",
