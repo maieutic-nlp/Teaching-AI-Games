@@ -9,3 +9,5 @@ related_publications: true
 ---
 
 First class. No need to prepare anything.
+
+[Here's the slides](https://prezi.com/view/gcFQnlISVLor3usiRaNI/)
