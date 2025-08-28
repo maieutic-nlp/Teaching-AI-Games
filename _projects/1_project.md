@@ -11,3 +11,5 @@ related_publications: true
 First class. No need to prepare anything.
 
 [Here's the slides](https://prezi.com/view/gcFQnlISVLor3usiRaNI/)
+
+For fun, check out "Bletchley Park Brainteasers" {% cite mckay2017bletchley %}
