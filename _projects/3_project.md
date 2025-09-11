@@ -12,6 +12,8 @@ Please read BEFORE CLASS "Checkers is Solved" {% cite schaeffer2007checkers %}. 
 
 Much of today's class will be focused on Symbolic, Logic-Based, or Classic AI. This was the assumption that you could represent things in a higher-level, symbolic or human-readable, format and attack problems that way. It led to many advances in AI, particularly search.
 
+Here's a [python notebook](https://github.com/KentonMurray/tic-tac-toe/) explaining some of these algorithms using tic-tac-toe.
+
 Complexity for some common games:
 * Checkers Arthur Samuel. 1959. Alpha-Beta Pruning. 10^40 - 10^50 range for complexity. Solved 2007
 * Chess 10^120 (Shannon number) was published in 1950. Yes, the same Shannon who we talked about for WORDLE last week. {% shannon1950xxii %}
