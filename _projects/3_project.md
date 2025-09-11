@@ -17,8 +17,8 @@ Here's a [python notebook](https://github.com/KentonMurray/tic-tac-toe/) explain
 Complexity for some common games:
 * Checkers Arthur Samuel. 1959. Alpha-Beta Pruning. 10^40 - 10^50 range for complexity. Solved 2007
 * Chess 10^120 (Shannon number) was published in 1950. Yes, the same Shannon who we talked about for WORDLE last week.
-* Connect-4. Solved independently 2 weeks apart in 1988 (James Allen 2008;  . In 2008, it was shown to have 4,531,985,219,092 reachable positions  (70,728,639,995,483  had been estimated) {% edelkamp2008symbolic %}. The starting player can win.
-* Othello 10^58. Solved in 2023 {% takizawa2023othello %}
+* Connect-4. Solved independently 2 weeks apart in 1988 (James Allen 2008;  . In 2008, it was shown to have 4,531,985,219,092 reachable positions  (70,728,639,995,483  had been estimated) {% cite edelkamp2008symbolic %}. The starting player can win.
+* Othello 10^58. Solved in 2023 {% cite takizawa2023othello %}
 * Atoms in the Universe 10^80 (very rough approximation)
 * Tic-tac-toe 10^5. 9! 362,880
 
