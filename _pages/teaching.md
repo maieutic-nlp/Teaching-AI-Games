@@ -39,3 +39,13 @@ My goal for us is to combine all of the projects and write a big academic paper 
 Please write a 1 page page project proposal for what you would like to work on for Wheel of Fortune. The goal is for everyone to have different projects that we can work together to combine. Reminder, AI tools can be used for any assignment (just give me your prompt and what system you used). Please email me if you have questions about project ideas. I would STRONGLY recommend watching at least one game of WoF this week to help you prepare for the final project.
 
 Please have this ready BEFORE class on 9/18. You can simply email me your one-pager.
+
+## DUE October 2nd
+
+Please come to class prepared to present for 5 minutes on what your project will be for the semester. You can make slides if you want, or simply talk about the issue that you created in the github repository. Things that you will probably want to cover in your talk:
+* Overview of your project (what the feature is)
+* Expected outcome
+* What you will need (data, human labels, previous games, etc.)
+* Much more (that is relevant to your project)
+
+Also, please come prepared to give feedback to your classmates. This provides more info than you could possible realize. If the class was graded, this would be weighted equally to your actual presentation.
