@@ -450,7 +450,7 @@ ninja.data = [{
               window.location.href = "/Teaching-AI-Games/projects/4_project/";
             },},{id: "projects-september-25",
           title: 'September 25',
-          description: "Large Language Models",
+          description: "Neural Networks and Large Language Models",
           section: "Projects",handler: () => {
               window.location.href = "/Teaching-AI-Games/projects/5_project/";
             },},{id: "projects-october-2",
